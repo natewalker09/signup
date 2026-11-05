@@ -1,0 +1,41 @@
+body {
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+.box {
+    background: grey;
+    width: 300px;
+    margin: 100px auto;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+h1 {
+    color: white;
+}
+
+input {
+    display: block;
+    width: 90%;
+    padding: 12px;
+    margin: 15px auto;
+    border: none;
+    border-radius: 5px;
+}
+
+button {
+    background: #9b59ff;
+    color: white;
+    border: none;
+    padding: 12px;
+    width: 100%;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
